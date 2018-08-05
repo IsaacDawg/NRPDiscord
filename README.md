@@ -16,21 +16,22 @@
 
                                                   Link = https://betterdiscord.net/home/
 
-                                                                    Installation
+                                                                  
+                                                                 Installation
 
-                                      Place the NRP.Theme css file inside the better discord theme folder.
+                                     Place the NRP.Theme css file inside the better discord theme folder.
 
-                                      File Location = C:\Users\username\AppData\Roaming\BetterDiscord\themes
+                                    File Location = C:\Users\username\AppData\Roaming\BetterDiscord\themes
 
 
                                                                      FAQ
                                                                     
 
-                                                            Q: How Do I Install This.
-                                                   A: Look At The Installation Section Inside This.
+                                                          Q: How Do I Install This.
+                                               A: Look At The Installation Section Inside This.
 
-                                                   Q: I have found a bug where do I report this bug.
-                                                A: You may report the bug to my discord, PM Isaac#2465.
+                                               Q: I have found a bug where do I report this bug.
+                                               A: You may report the bug to my discord, PM Isaac#2465.
 
-                                                   Q: Do you have a public discord server for help.
-                                                   A: As for now no, but in the near future maybe.
+                                               Q: Do you have a public discord server for help.
+                                               A: As for now no, but in the near future maybe.
